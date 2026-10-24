@@ -1,0 +1,13 @@
+model,year,revenue hit5 (main),net profit hit5,"revenue hit5, unit-fixed","revenue hit5, excl. suspects"
+gemini-3.5-flash-lite,FY23,0.79,0.64,0.79,0.79
+gemini-3.5-flash-lite,FY24,0.67,0.54,0.67,0.66
+gemini-3.5-flash-lite,FY25,0.35,0.22,0.35,0.34
+gemini-3.5-flash-lite,FY26,0.28,0.16,0.29,0.29
+gemini-3.6-flash,FY23,0.94,0.82,0.94,0.93
+gemini-3.6-flash,FY24,0.94,0.78,0.94,0.94
+gemini-3.6-flash,FY25,0.48,0.23,0.48,0.47
+gemini-3.6-flash,FY26,0.24,0.08,0.24,0.25
+gpt-oss-120b,FY23,0.01,0.05,0.03,0.01
+gpt-oss-120b,FY24,0.03,0.05,0.04,0.03
+gpt-oss-120b,FY25,0.05,0.04,0.05,0.05
+gpt-oss-120b,FY26,0.06,0.0,0.08,0.06
