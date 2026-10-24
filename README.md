@@ -2,7 +2,7 @@
 
 Data and code for the working paper **"Do AI Models Remember Indian Company Financials? Evidence on Look-Ahead Bias by Firm Size"** by Sethu Madhavan Chandavarapu (Manipal Institute of Technology, MAHE), October 2026.
 
-Paper: [`paper.pdf`](paper.pdf) in this repository; SSRN link to be added once it is live.
+Paper: [`paper.pdf`](paper.pdf) in this repository. Archived on Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23624227.svg)](https://doi.org/10.5281/zenodo.23624227)
 
 ## What this tests
 
@@ -58,11 +58,11 @@ Recall falls with firm size (about 11 percentage points per tenfold change in ma
 
 ## Use of AI tools
 
-Claude was used to assist in this work: to help design the study, co-write the data-collection and analysis code, collect and audit the ground-truth figures, and rewrite for drafting the text. The author ran all model queries and analyses, checked audited figures against the original company filings, spot-checked reported numbers against the outputs, reviewed the results and the text. Every reported number was re-checked against the underlying data in a separate verification pass.
+Generative AI (Anthropic's Claude) was used extensively in this work: to help design the study, write the data-collection and analysis code, collect and audit the ground-truth figures, and draft the text. The author ran all model queries and analyses, checked audited figures against the original company filings, spot-checked reported numbers against the outputs, reviewed the results and the text, and takes full responsibility for the content. Every reported number was re-checked against the underlying data in a separate verification pass.
 
 ## Citation
 
-Chandavarapu, S. M. (2026). Do AI Models Remember Indian Company Financials? Evidence on Look-Ahead Bias by Firm Size. Working paper.
+Chandavarapu, S. M. (2026). Do AI Models Remember Indian Company Financials? Evidence on Look-Ahead Bias by Firm Size. Working paper. https://doi.org/10.5281/zenodo.23624227
 
 ## Licence
 
